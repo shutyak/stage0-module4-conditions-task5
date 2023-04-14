@@ -9,7 +9,7 @@ public class BasicSwitchBreaks {
             case 10:
                 System.out.println("ten");
             case 20:
-                System.out.println("twenty");
+                System.out.println("twenty"); break;
             default:
                 System.out.println("default");
         }
